@@ -20,7 +20,7 @@
 
 <div align="center">
     <a href="https://soundline.cc">Home Page</a> |
-    <a href="https://x.com/SoundLineSpace">Twitter</a> |
+    <a href="https://x.com/SoundlineApp">Twitter</a> |
     <a href="https:/soundline.cc">Documentation</a>
 </div>
 <br/>
