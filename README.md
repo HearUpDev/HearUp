@@ -1,12 +1,12 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://soundline.cc">SoundLine</a></b><br />
+    <b><a href="https://HearUp.ai">HearUp</a></b><br />
     Use the AI voice translator. Take decisions in minutes with our AI engine.
     <br>
 </h1>
-<a href="https://soundline.cc">
-    <img alt="SoundLine logo" src="https://i.imgur.com/chp62aD.png" style="width: 100%">
+<a href="https://HearUp.ai">
+    <img alt="HearUp logo" src="https://i.imgur.com/Sl4vuBQ.png" style="width: 100%">
 </a>
 <br/>
 <p align="center">
@@ -19,9 +19,9 @@
 <br/>
 
 <div align="center">
-    <a href="https://soundline.cc">Home Page</a> |
-    <a href="https://x.com/SoundlineApp">Twitter</a> |
-    <a href="https:/soundline.cc">Documentation</a>
+    <a href="https://HearUp.ai">Home Page</a> |
+    <a href="https://x.com/HearUpai">Twitter</a> |
+    <a href="https:/HearUp.ai">Documentation</a>
 </div>
 <br/>
 
@@ -34,7 +34,7 @@
 
 <br />
 <div align="center">
-<em>Docs, canvas and tables are hyper-merged with SoundLine</em>
+<em>Docs, canvas and tables are hyper-merged with HearUp</em>
 </div>
 <br />
 
@@ -45,27 +45,27 @@ Star us, and you will receive all release notifications from GitHub without any 
 
 <img src="https://i.ibb.co/Pj3Vp9j/1222222.gif" style="width: 100%"/>
 
-## What is SoundLine
+## What is HearUp
 
-SoundLine is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
+HearUp is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
 
 ## Features
 
 **A true canvas for blocks in any form. Docs and whiteboard are now fully merged.**
 
-- Many editor apps claim to be a canvas for productivity, but SoundLine is one of the very few which allows you to put any building block on an edgeless canvas -- rich text, sticky notes, any embedded web pages, multi-view databases, linked pages, shapes and even slides. We have it all.
+- Many editor apps claim to be a canvas for productivity, but HearUp is one of the very few which allows you to put any building block on an edgeless canvas -- rich text, sticky notes, any embedded web pages, multi-view databases, linked pages, shapes and even slides. We have it all.
 
 **Multimodal AI partner ready to kick in any work**
 
-- Write up professional work report? Turn an outline into expressive and presentable slides? Summary an article into a well-structured mindmap? Sorting your job plan and backlog for tasks? Or... draw and code prototype apps and web pages directly all with one prompt? With you, SoundLine AI pushes your creativity to the edge of your imagination.
+- Write up professional work report? Turn an outline into expressive and presentable slides? Summary an article into a well-structured mindmap? Sorting your job plan and backlog for tasks? Or... draw and code prototype apps and web pages directly all with one prompt? With you, HearUp AI pushes your creativity to the edge of your imagination.
 
 **Local-first & Real-time collaborative**
 
-- We love the idea of local-first that you always own your data on your disk, in spite of the cloud. Furthermore, SoundLine supports real-time sync and collaborations on web and cross-platform clients.
+- We love the idea of local-first that you always own your data on your disk, in spite of the cloud. Furthermore, HearUp supports real-time sync and collaborations on web and cross-platform clients.
 
-**Self-host & Shape your own SoundLine**
+**Self-host & Shape your own HearUp**
 
-- You have the freedom to manage, self-host, fork and build your own SoundLine. Plugin community and third-party blocks are coming soon. More tractions on Blocksuite.
+- You have the freedom to manage, self-host, fork and build your own HearUp. Plugin community and third-party blocks are coming soon. More tractions on Blocksuite.
 
 ## Acknowledgement
 
@@ -79,36 +79,36 @@ SoundLine is an open-source, all-in-one workspace and an operating system for al
 
 There is a large overlap of their atomic “building blocks” between these apps. They are not open source, nor do they have a plugin system like Vscode for contributors to customize. We want to have something that contains all the features we love and also goes one step even further.
 
-Thanks for checking us out, we appreciate your interest and sincerely hope that SoundLine resonates with you! 🎵 Checking https://soundline.cc/ for more details ions.
+Thanks for checking us out, we appreciate your interest and sincerely hope that HearUp resonates with you! 🎵 Checking https://HearUp.ai/ for more details ions.
 
 ## Contributing
 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions                                                       | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Create a bug report](https://github.com/SoundLineai/SoundLine/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/SoundLineai/SoundLine/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://SoundLine.space) |           |
-| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@soundline.cc                                                   |
+| [Create a bug report](https://github.com/HearUpdev/HearUp/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/HearUpdev/HearUp/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://HearUp.ai) |           |
+| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@HearUp.ai                                                   |
 
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
 
 **Before you start contributing, please make sure you have read and accepted our Contributor License Agreement. To indicate your agreement, simply edit this file and submit a pull request.**
 
-For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/SoundLineai/SoundLine/issues/new/choose) and choose the most appropriate template for your feedback.
+For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/HearUpdev/HearUp/issues/new/choose) and choose the most appropriate template for your feedback.
 
 
 
-If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [SoundLine](https://soundline.cc) where you can engage with other like-minded individuals.
+If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [HearUp](https://HearUp.ai) where you can engage with other like-minded individuals.
 
 ## Ecosystem
 
 | Name                                             |                            |                                                                                                                                         |
 | ------------------------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [@SoundLine/component](packages/frontend/component) | SoundLine Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
-| [@SoundLineai/theme](packages/common/theme)     | SoundLine theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
+| [@HearUp/component](packages/frontend/component) | HearUp Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
+| [@HearUpdev/theme](packages/common/theme)     | HearUp theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
 
 
 ## Contributors
 
-We would like to express our gratitude to all the individuals who have already contributed to SoundLine! If you have any SoundLine-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-SoundLine](https://github.com/SoundLineai/SoundLine).
+We would like to express our gratitude to all the individuals who have already contributed to HearUp! If you have any HearUp-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-HearUp](https://github.com/HearUpdev/HearUp).
 
 <a href="">
   <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
@@ -116,26 +116,26 @@ We would like to express our gratitude to all the individuals who have already c
 
 ## Self-Host
 
-Begin with Docker to deploy your own feature-rich, unrestricted version of SoundLine. Our team is diligently updating to the latest version. For more information on how to self-host SoundLine, please refer to our [documentation](https://soundline.cc/).
+Begin with Docker to deploy your own feature-rich, unrestricted version of HearUp. Our team is diligently updating to the latest version. For more information on how to self-host HearUp, please refer to our [documentation](https://HearUp.ai/).
 
 ## Hiring
 
-Some amazing companies, including SoundLine, are looking for developers! Are you interested in joining SoundLine or its partners? Check out our Discord channel for some of the latest jobs available.
+Some amazing companies, including HearUp, are looking for developers! Are you interested in joining HearUp or its partners? Check out our Discord channel for some of the latest jobs available.
 
 ## Email
 
-For questions and suggestions, please use this email [contact@soundline.cc]
+For questions and suggestions, please use this email [contact@HearUp.ai]
 
 ## Building
 
 ### Codespaces
 
 From the GitHub repo main page, click the green "Code" button and select "Create codespace on master". This will open a new Codespace with the (supposedly auto-forked
-SoundLine repo cloned, built, and ready to go.
+HearUp repo cloned, built, and ready to go.
 
 ### Local
 
-See [BUILDING.md] for instructions on how to build SoundLine from source code.
+See [BUILDING.md] for instructions on how to build HearUp from source code.
 
 ## Contributing
 
